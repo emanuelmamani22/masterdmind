@@ -18,4 +18,4 @@ while True:
         print "Adivinaste"
         break
     t = t + 1
-print "Necesito "str(t)" intentos"
+print "Necesito "+str(t)+" intentos"
